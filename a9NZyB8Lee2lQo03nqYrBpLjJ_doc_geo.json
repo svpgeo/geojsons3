@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.7006502,
+                            31.3010268
+                        ],
+                        [
+                            -93.8548101,
+                            31.3010268
+                        ],
+                        [
+                            -93.8548101,
+                            32.0272707
+                        ],
+                        [
+                            -94.7006502,
+                            32.0272707
+                        ],
+                        [
+                            -94.7006502,
+                            31.3010268
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "hash_id": "a9NZyB8Lee2lQo03nqYrBpLjJ"
+            }
+        }
+    ]
+}
